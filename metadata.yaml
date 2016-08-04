@@ -1,0 +1,26 @@
+_repo: Bab--A-Sub-Deb_366
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Sub deb creates an imaginary love affair to gain attention of her family
+  and gets the desired results and more.
+gutenberg_issued: '2006-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Debutantes -- Fiction'
+- GITenberg
+title: 'Bab: A Sub-Deb'
+url: http://www.gutenberg.org/ebooks/366
