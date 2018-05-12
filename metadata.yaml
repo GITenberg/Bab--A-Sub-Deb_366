@@ -1,5 +1,8 @@
 _repo: Bab--A-Sub-Deb_366
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
 description: Sub deb creates an imaginary love affair to gain attention of her family
   and gets the desired results and more.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/366#Bab--A-Sub-Deb
 gutenberg_issued: '2006-03-15'
 gutenberg_type: Text
 identifiers:
